@@ -1,0 +1,14 @@
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\bin\Debug\net9.0\KarakterYerDegistirme.exe
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\bin\Debug\net9.0\KarakterYerDegistirme.deps.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\bin\Debug\net9.0\KarakterYerDegistirme.runtimeconfig.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\bin\Debug\net9.0\KarakterYerDegistirme.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\bin\Debug\net9.0\KarakterYerDegistirme.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\obj\Debug\net9.0\KarakterYerDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\obj\Debug\net9.0\KarakterYerDegistirme.AssemblyInfoInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\obj\Debug\net9.0\KarakterYerDegistirme.AssemblyInfo.cs
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\obj\Debug\net9.0\KarakterYerDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\obj\Debug\net9.0\KarakterYerDegistirme.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\obj\Debug\net9.0\refint\KarakterYerDegistirme.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\obj\Debug\net9.0\KarakterYerDegistirme.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\obj\Debug\net9.0\KarakterYerDegistirme.genruntimeconfig.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\CSharp101\KarakterYerDegistirme\obj\Debug\net9.0\ref\KarakterYerDegistirme.dll
